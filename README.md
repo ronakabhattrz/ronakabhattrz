@@ -32,7 +32,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="230" src="https://media-exp1.licdn.com/dms/image/C4E16AQHcKsdBIg_CHQ/profile-displaybackgroundimage-shrink_350_1400/0/1600242912063?e=1617840000&v=beta&t=STkNQ_Xhct27s3PfabfZTQOjrBtnJP2PCA3yhZ1stZs"></code>    
+<img width="1702" alt="Screenshot-2021-10-12-at-12-00-38-PM" src="https://user-images.githubusercontent.com/21212187/136903849-7a27fa1e-f417-4c74-96c4-6119abc732dd.png">
 
 
 <h3>🏆 Github Status</h3></br>
