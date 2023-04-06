@@ -39,7 +39,25 @@
 
 # 📊 GitHub Stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ronakabhattrz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true)</br>
 <a href="https://github.com/ronakabhattrz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakabhattrz&theme=dark&hide_langs_below=1" />
 </a>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ronakabhattrz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true)
+
+# 🙏 Support
+
+<p align="left">
+<a href="https://www.paypal.me/ronakbhattrz/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+</a>
+</p>
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/ronakabhattrz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+</p>
+
+<hr>
+<p align="center">
+Developer from India 🇮🇳 
+</p>
+
